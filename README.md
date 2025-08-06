@@ -16,7 +16,7 @@ project/
 │
 ├── app.py                 # Main Flask app
 ├── cnn_lstm_final.h5      # Trained CNN+LSTM captioning model
-├── cnn\_tokenizer.pkl      # Trained tokenizer used during model training
+├── cnn_tokenizer.pkl      # Trained tokenizer used during model training
 │
 ├── static/
 │   └── uploads/           # Uploaded image files
