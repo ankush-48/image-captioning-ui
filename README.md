@@ -15,7 +15,7 @@ This project implements a **deep learning-based image captioning system** with a
 project/
 │
 ├── app.py                 # Main Flask app
-├── cnn\_lstm\_final.h5      # Trained CNN+LSTM captioning model
+├── cnn_lstm_final.h5      # Trained CNN+LSTM captioning model
 ├── cnn\_tokenizer.pkl      # Trained tokenizer used during model training
 │
 ├── static/
